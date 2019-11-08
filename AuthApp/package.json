@@ -1,0 +1,26 @@
+{
+  "name": "authapp",
+  "version": "1.0.0",
+  "description": "Authentication using passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Passport"
+  ],
+  "author": "Mwongera",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "commander": "^2.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
